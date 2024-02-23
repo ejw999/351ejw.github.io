@@ -1,2 +1,2 @@
 # lol
-ejw999.github.io
+[go] (ejw999.github.io){:target="_blank"}.
