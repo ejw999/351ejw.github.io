@@ -1,0 +1,38 @@
+body{
+    background-color: lightblue;
+}
+
+b{
+	font-family:verdana;
+	position:fixed;
+	left:50%;
+}
+.diff{
+        margin:inherit;
+        position: sticky;
+        left: 10%;
+        bottom: 10%;
+        top: 20%;
+    }
+.h{
+        position: fixed;
+        left: 2%;
+        top:13%;
+    }
+footer{
+    background-color: lightblue;
+    padding: 20px;
+    margin: 1px;
+    text-align: center;
+    font-size: 50px;
+    font-family: arial;
+}
+.page_wrpr {
+    max-width: 1000px;
+    margin:0px auto;
+}
+
+dl{
+    font-family: arial;
+    font-size: 20;
+}
